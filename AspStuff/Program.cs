@@ -26,6 +26,7 @@ namespace AspStuff
                 .Build();
 
             host.Run();
+            
         }
     }
 }
